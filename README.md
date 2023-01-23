@@ -16,7 +16,6 @@ python run_healthmoe.py --do_train --do_eval
 python run_colloquial_t5.py --do_train --do_eval
 python run_faviqmoe_dpr.py --do_train --do_eval
 ```
-## Checkpoints
 
 # Acknowledgement
 Our implementation is built on the source code from [SaMoE](https://github.com/THUMLP/SaMoE). Thanks for their contributions.
