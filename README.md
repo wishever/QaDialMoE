@@ -6,7 +6,7 @@ Code for paper "QaDialMoE: Question-answering Dialogue based Fact Verification w
 + pytorch 1.0+
 
 # Usage
-+ Download RoBERTa-Large model from https://huggingface.co/roberta-large. Place all the files into a new folder "roberta_large" under the root.
+Download RoBERTa-Large model from https://huggingface.co/roberta-large. Place all the files into a new folder "roberta_large" under the root.
 ## Dataset
 Please see the details in `data` folder.
 ## Training
