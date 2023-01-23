@@ -1,0 +1,1 @@
+We conduct experiments on three benchmark datasets HEALTHVER ([Sarrouti et al., 2021] https://github.com/sarrouti/healthver), FAVIQ ([Park et al., 2022] https://github.com/faviq/faviq) and COLLOQUIAL ([Kim et al., 2021] https://github.com/bckim92/colloquial-claims).
